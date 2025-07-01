@@ -26,5 +26,6 @@ These visuals aim to merge traditional Bengali elements with modern UI aesthetic
 
 ---
 
+🚀 **[Click here to view the live poster preview](https://tirtha28.github.io/kolkata-illustrated-ui/)**  
 
 
