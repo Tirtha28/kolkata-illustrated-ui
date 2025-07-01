@@ -22,8 +22,9 @@ These visuals aim to merge traditional Bengali elements with modern UI aesthetic
 - Adobe Illustrator & Photoshop
 - Figma (for layout planning)
 - Procreate (for hand-drawn sketches)
+- Canva
 
 ---
 
-## 📁 File Structure
+
 
